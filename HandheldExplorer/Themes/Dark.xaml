@@ -1,0 +1,12 @@
+<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <SolidColorBrush x:Key="WindowBg" Color="#101114"/>
+    <SolidColorBrush x:Key="PanelBg" Color="#17181C"/>
+    <SolidColorBrush x:Key="CardBg" Color="#1F2126"/>
+    <SolidColorBrush x:Key="HoverBg" Color="#2A2D34"/>
+    <SolidColorBrush x:Key="PressedBg" Color="#363A43"/>
+    <SolidColorBrush x:Key="Stroke" Color="#2E3138"/>
+    <SolidColorBrush x:Key="TextPrimary" Color="#F2F3F5"/>
+    <SolidColorBrush x:Key="TextSecondary" Color="#9BA1AC"/>
+    <SolidColorBrush x:Key="OverlayDim" Color="#A6000000"/>
+</ResourceDictionary>
