@@ -1,5 +1,7 @@
 # Handheld Explorer
 
+<img width="1283" height="808" alt="image" src="https://github.com/user-attachments/assets/8d26d9aa-d773-469a-896c-e6f62f18fe4c" />
+
 A touch- and controller-first file explorer for Windows handhelds (ROG Ally, Legion Go, MSI Claw,
 Steam Deck running Windows, or any PC with an Xbox-style pad). WPF, .NET 8, no NuGet dependencies.
 
